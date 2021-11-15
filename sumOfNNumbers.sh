@@ -9,4 +9,4 @@ do
 	sum=$((sum+a))
 	n=$((n-1))
 done
-echo "Sum is $sum"
+echo "Sum of the numbers is $sum"
